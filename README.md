@@ -11,7 +11,7 @@ In the resources directory, you can find ***import.sql*** file where the initial
 
 If you have any trouble with the port, you can modify the default port (8080) adding the field:
 
-server:
+server:  
     port: the number of the port that you prefer (be careful with the indentation).
 
 ### Endpoints
