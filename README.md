@@ -14,6 +14,8 @@ If you have any trouble with the port, you can modify the default port (8080) ad
 server:  
     port: the number of the port that you prefer (be careful with the indentation).
 
+In the ***application.yml*** file.
+
 ### Endpoints
 
 - localhost:8080/ (GET method)
